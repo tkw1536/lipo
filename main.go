@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/integrii/flaggy"
-	"github.com/konoui/lipo/pkg/lipo"
+	"github.com/tkw1536/lipo/pkg/lipo"
 )
 
 var osExit = os.Exit

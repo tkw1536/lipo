@@ -1,4 +1,4 @@
-module github.com/konoui/lipo
+module github.com/tkw1536/lipo
 
 go 1.18
 

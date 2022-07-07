@@ -6,12 +6,12 @@ This is useful for environments such as CI/CD which does not provides macOS or [
 
 ### INSTALL
 
-#### Donwload [a latest release from GitHub](https://github.com/konoui/lipo/releases/latest)
+#### Donwload [a latest release from GitHub](https://github.com/tkw1536/lipo/releases/latest)
 
 For example for Linux on amd64,
 
 ```
-$ curl -L -o /tmp/lipo https://github.com/konoui/lipo/releases/latest/download/lipo_Linux_amd64
+$ curl -L -o /tmp/lipo https://github.com/tkw1536/lipo/releases/latest/download/lipo_Linux_amd64
 $ chmod +x /tmp/lipo
 $ sudo mv /tmp/lipo /usr/local/bin
 ```
@@ -19,7 +19,7 @@ $ sudo mv /tmp/lipo /usr/local/bin
 #### Go Install command
 
 ```
-$ go install github.com/konoui/lipo@latest
+$ go install github.com/tkw1536/lipo@latest
 ```
 
 ### USAGE
